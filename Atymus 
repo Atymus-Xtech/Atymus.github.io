@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <title>Atymus - AI Trading Bot</title> 
+  <link rel="stylesheet" href="style.css"> 
+  <script defer src="script.js"></script> 
+ </head> 
+ <body> 
+  <header> 
+   <div class="logo">
+     Atymus 
+   </div> 
+   <nav> 
+    <ul> 
+     <li><a href="#home">Home</a></li> 
+     <li><a href="#features">Features</a></li> 
+     <li><a href="#strategies">Strategies</a></li> 
+     <li><a href="#contact">Contact</a></li> 
+    </ul> 
+   </nav> 
+  </header> 
+  <section id="home"> 
+   <div class="overlay"></div> 
+   <div class="content"> 
+    <h1>Atymus: The Future of AI Trading</h1> 
+    <p>Automated, Adaptive, and Smart Trading with AI-Powered Strategies.</p> <a href="#features" class="btn">Explore Features</a> 
+   </div> 
+  </section> 
+  <section id="features"> 
+   <h2>Key Features</h2> 
+   <div class="feature-grid"> 
+    <div class="feature"> 
+     <h3>Multi-Strategy Trading</h3> 
+     <p>Combines Scalping, Swing, and Trend Trading for optimal results.</p> 
+    </div> 
+    <div class="feature"> 
+     <h3>Smart Risk Management</h3> 
+     <p>Dynamic lot sizing, profit lock-in, and hidden stop-loss.</p> 
+    </div> 
+    <div class="feature"> 
+     <h3>Institutional Trading</h3> 
+     <p>Uses Smart Money Concepts and ICT strategies.</p> 
+    </div> 
+   </div> 
+  </section> 
+  <section id="strategies"> 
+   <h2>Trading Strategies</h2> 
+   <div class="strategy"> 
+    <h3>Scalping</h3> 
+    <p>High-frequency trading with smart trade filtering.</p> 
+   </div> 
+   <div class="strategy"> 
+    <h3>Swing Trading</h3> 
+    <p>Mid-term trading based on market cycles.</p> 
+   </div> 
+   <div class="strategy"> 
+    <h3>Trend Trading</h3> 
+    <p>Following strong trends with AI-driven analysis.</p> 
+   </div> 
+  </section> 
+  <section id="contact"> 
+   <h2>Contact Us</h2> 
+   <form> 
+    <input type="text" placeholder="Your Name" required> 
+    <input type="email" placeholder="Your Email" required> <textarea placeholder="Your Message" required></textarea> <button type="submit">Send Message</button> 
+   </form> 
+  </section> 
+  <footer> 
+   <p>© 2025 Atymus. All Rights Reserved.</p> 
+  </footer> 
+ </body>
+</html>
